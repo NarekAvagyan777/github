@@ -4,7 +4,7 @@ import { Text } from './files/Text';
 function App() {
   return (
     <div className="App">
-        fgfgfgfgfgfgfgfgsgsgsgsgeeee
+        fgfgfgfgfgfgfgfgsgsgsgsgeeeeererererererereruuuuu
         <Text />
     </div>
   );
