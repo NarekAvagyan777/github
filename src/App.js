@@ -4,9 +4,9 @@ import { Text } from './files/Text';
 function App() {
   return (
     <div className="App">
-        fgfgfgfgfgfgfgfgsgsgsgsgeeeeererererererereruuuuu
+        fgfgfgfgfgfgfgfgsgsgs
         <Text />
-        xxxxxxxxxx
+        eeeeeeessssssss
     </div>
   );
 }
