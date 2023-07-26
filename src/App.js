@@ -6,6 +6,7 @@ function App() {
     <div className="App">
         fgfgfgfgfgfgfgfgsgsgsgsgeeeeererererererereruuuuu
         <Text />
+        xxxxxxxxxx
     </div>
   );
 }
